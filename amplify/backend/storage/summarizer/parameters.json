@@ -1,0 +1,5 @@
+{
+    "tableName": "processednews",
+    "partitionKeyName": "Date",
+    "partitionKeyType": "S"
+}
